@@ -55,7 +55,17 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![WhatsApp Image 2024-12-08 at 20 03 53_63062a5b](https://github.com/user-attachments/assets/2cc4e49b-a1b5-40cc-b20b-91bdf17e3c53)
+![WhatsApp Image 2024-12-08 at 20 04 31_c010c047](https://github.com/user-attachments/assets/be325637-8992-4a62-9fbd-31fc1ffdef44)
+
+
 
 **Output/TIMING Waveform**
+![WhatsApp Image 2024-12-08 at 20 04 39_c57259ca](https://github.com/user-attachments/assets/ee020635-1767-419e-9311-ae7a258434ac)
+![WhatsApp Image 2024-12-08 at 20 05 27_42791b59](https://github.com/user-attachments/assets/f0c394d1-5e55-4331-be06-8987f7f4f09f)
+
+
+
 
 **Result:**
+Hence the program for logic gates and verification of the truth table in quartus using verilog programming is verified.
